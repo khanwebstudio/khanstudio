@@ -1,4 +1,4 @@
-# khanstudio
+# Khanstudio
 
 Modern Landing Pages & AI Videos
 
